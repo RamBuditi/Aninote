@@ -40,7 +40,7 @@ Aninote is a single-page web application designed as a personal productivity das
 
 ## How to Use
 
-1.  Simply open the `index.html` file in a modern web browser that supports HTML5, CSS3, and JavaScript.
+1.  Simply open the `index.html` file in a modern web browser that supports HTML5, CSS3, and JavaScript or vist https://rambuditi.github.io/Aninote/
 2.  Interact with the different sections:
     *   Add timers and control them using the buttons.
     *   Add, manage, prioritize, and reorder tasks in the To-Do list.
